@@ -1,4 +1,10 @@
-﻿#include <stdlib.h>
+// П.І.Б: Голубкова Зоя Сергіївна
+// Група: ТР-з01
+// Предмет: Проектування та аналіз алгоритмів
+// Лабораторна робота №1
+
+
+#include <stdlib.h>
 #include <math.h>
 #include <time.h>
 #include <malloc.h>
